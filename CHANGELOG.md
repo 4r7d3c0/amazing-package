@@ -1,5 +1,5 @@
-## {{ create_date }}
+## 5 February 2020
 
 ### 0.0.0-pre
 
-- Create `{{ package-name }}` with _[`NodeTools`](https://art-deco.github.io/nodetools)_.
+- Create `amazing-package` with _[`NodeTools`](https://art-deco.github.io/nodetools)_.

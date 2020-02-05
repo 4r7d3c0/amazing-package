@@ -3,16 +3,16 @@
 The package is available by importing its default function:
 
 ```js
-import myNewPackage from 'my-new-package'
+import amazingPackage from 'amazing-package'
 ```
 
 %~%
 
-<typedef method="myNewPackage">types/api.xml</typedef>
+<typedef method="amazingPackage">types/api.xml</typedef>
 
 <typedef>types/index.xml</typedef>
 
-%EXAMPLE: example, ../src => my-new-package%
+%EXAMPLE: example, ../src => amazing-package%
 %FORK example%
 
 %~%

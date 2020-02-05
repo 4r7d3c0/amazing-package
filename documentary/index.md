@@ -1,11 +1,11 @@
-# my-new-package
+# amazing-package
 
-%NPM: my-new-package%
+%NPM: amazing-package%
 
-`my-new-package` is {{ description }}
+`amazing-package` is Hello World
 
 ```sh
-yarn add my-new-package
+yarn add amazing-package
 ```
 
 ## Table Of Contents

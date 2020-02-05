@@ -1,10 +1,10 @@
 {
-  "_myNewPackage.myNewPackage": {
-    "link": "https://github.com/mnpjs/package#async-mynewpackageconfig-config-string",
-    "description": "{{ description }}"
+  "_amazingPackage.amazingPackage": {
+    "link": "https://github.com/amazing-packagejs/package#async-mynewpackageconfig-config-string",
+    "description": "Hello World"
   },
-  "_myNewPackage.Config": {
-    "link": "https://github.com/mnpjs/package#type-config",
+  "_amazingPackage.Config": {
+    "link": "https://github.com/amazing-packagejs/package#type-config",
     "description": "Options for the program."
   }
 }

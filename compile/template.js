@@ -1,12 +1,12 @@
-const { _myNewPackage } = require('./mnp')
+const { _amazingPackage } = require('./amazing-package')
 
 /**
- * @methodType {_myNewPackage.myNewPackage}
+ * @methodType {_amazingPackage.amazingPackage}
  */
-function myNewPackage(config) {
-  return _myNewPackage(config)
+function amazingPackage(config) {
+  return _amazingPackage(config)
 }
 
-module.exports = myNewPackage
+module.exports = amazingPackage
 
 /* typal types/index.xml namespace */

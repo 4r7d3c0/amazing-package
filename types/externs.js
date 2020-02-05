@@ -5,26 +5,26 @@
 
 /* typal types/index.xml externs */
 /** @const */
-var _myNewPackage = {}
+var _amazingPackage = {}
 /**
  * Options for the program.
  * @record
  */
-_myNewPackage.Config
+_amazingPackage.Config
 /**
  * A boolean option. Default `true`.
  * @type {boolean|undefined}
  */
-_myNewPackage.Config.prototype.shouldRun
+_amazingPackage.Config.prototype.shouldRun
 /**
  * A text to return.
  * @type {string|undefined}
  */
-_myNewPackage.Config.prototype.text
+_amazingPackage.Config.prototype.text
 
 /* typal types/api.xml externs */
 /**
- * {{ description }}
- * @typedef {function(!_myNewPackage.Config): !Promise<string>}
+ * Hello World
+ * @typedef {function(!_amazingPackage.Config): !Promise<string>}
  */
-_myNewPackage.myNewPackage
+_amazingPackage.amazingPackage
